@@ -1,7 +1,7 @@
 
    [
      {
-       "name": "Calculator",
+       "name": "calculator",
        "package": "calculator",
        "update_json": "https://raw.githubusercontent.com/vaxp/Calculator/main/update.json"
      },
