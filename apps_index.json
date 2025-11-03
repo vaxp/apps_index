@@ -15,4 +15,9 @@
        "package": "vanote",
        "update_json": "https://raw.githubusercontent.com/vaxp/vanote/main/update.json"
      }
+      {
+       "name": "ss",
+       "package": "sss",
+       "update_json": "https://raw.githubusercontent.com/vaxp/vanote/main/update.json"
+     }
    ]
