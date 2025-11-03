@@ -16,8 +16,8 @@
        "update_json": "https://raw.githubusercontent.com/vaxp/vanote/main/update.json"
      }
      ,{
-       "name": "xx",
-       "package": "vaxxnote",
-       "update_json": "https://raw.githubusercontent.com/vaxp/vanote/main/update.json"
+       "name": "vaxpsam",
+       "package": "vaxpsam",
+       "update_json": "https://raw.githubusercontent.com/vaxp/vaxpsam/main/update.json"
      }
    ]
