@@ -6,12 +6,12 @@
        "update_json": "https://raw.githubusercontent.com/vaxp/Calculator/main/update.json"
      },
      {
-       "name": "VaxManager",
+       "name": "vaxmanager",
        "package": "vaxmanager",
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxmanegr/main/update.json"
      },
      {
-       "name": "VaNote",
+       "name": "vanote",
        "package": "vanote",
        "update_json": "https://raw.githubusercontent.com/vaxp/vanote/main/update.json"
      }
@@ -19,5 +19,10 @@
        "name": "vaxpsam",
        "package": "vaxpsam",
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxpsam/main/update.json"
+     }
+    ,{
+       "name": "vaxp_updater",
+       "package": "vaxp_updater",
+       "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
      }
    ]
