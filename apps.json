@@ -25,4 +25,9 @@
        "package": "vaxp_updater",
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
      }
+         ,{
+       "name": "vaclocks",
+       "package": "vaclocks",
+       "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
+     }
    ]
