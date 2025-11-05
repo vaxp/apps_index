@@ -22,7 +22,7 @@
      }
     ,{
        "name": "vaxp-updater",
-       "package": "vaxp_updater",
+       "package": "vaxp-updater",
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
      }
          ,{
