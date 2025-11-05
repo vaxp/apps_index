@@ -25,9 +25,14 @@
        "package": "vaxp-updater",
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
      }
-         ,{
+    ,{
        "name": "vaclocks",
        "package": "vaclocks",
-       "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
+       "update_json": "https://raw.githubusercontent.com/vaxp/vaclocks/main/update.json"
+     }
+    ,{
+       "name": "vater",
+       "package": "vater",
+       "update_json": "https://raw.githubusercontent.com/vaxp/vater/main/update.json"
      }
    ]
