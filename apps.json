@@ -21,7 +21,7 @@
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxpsam/main/update.json"
      }
     ,{
-       "name": "vaxp_updater",
+       "name": "vaxp-updater",
        "package": "vaxp_updater",
        "update_json": "https://raw.githubusercontent.com/vaxp/vaxp_updater/main/update.json"
      }
